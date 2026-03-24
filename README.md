@@ -58,17 +58,17 @@ Doctor	Complete a visit	Billing can be triggered
 ### Flow 1: New Patient Registers and Books Appointment
 
 #### Patient Booking Flow
-![Booking Flow](docs/images/booking-flow.png)
+![Booking Flow](docs/images/PatientFlow.png)
 
 
 
 ### Flow 2: Complete Patient Visit 
 #### Main Work Flow
-![Booking Flow](docs/images/booking-flow.png)
+![Booking Flow](docs/images/ClinicFlow.png)
 
 
 ### Flow 3: Cancel and Reschedule
-![Booking Flow](docs/images/booking-flow.png)
+![Booking Flow](docs/images/CancelFlow.png)
 
 
 ## Step 3: Feature Breakdown (The "What Exactly")
